@@ -1,4 +1,4 @@
-# Hi there, I'm Baglyy! 👋
+💥 Baglyy
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&width=435&lines=Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%A7%A0" alt="Typing SVG" />
