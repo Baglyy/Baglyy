@@ -38,14 +38,4 @@
 
 ### 🤝 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/nolan-pécheul-59a252318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://app.notion.com/p/pecheul-nolan/Portfolio-de-comp-tences-BUT-informatique-IUT-de-Vannes-122ec91fe622805aa514e1e55c83d313" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:nolanereac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<p><a href="https://linkedin.com/in/nolan-pécheul-59a252318/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://app.notion.com/p/pecheul-nolan/Portfolio-de-comp-tences-BUT-informatique-IUT-de-Vannes-122ec91fe622805aa514e1e55c83d313" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=notion" height="38" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="mailto:nolanereac@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Email" /></a></p>
